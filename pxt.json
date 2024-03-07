@@ -2,7 +2,8 @@
     "name": "main menu",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "controller": "*"
     },
     "files": [
         "main.blocks",
